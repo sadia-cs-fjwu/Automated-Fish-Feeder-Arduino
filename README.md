@@ -84,7 +84,6 @@ This system is particularly useful for aquarium owners who may forget feeding sc
 ---
 
 ## Author
-## Author
 
 Sadia Ali
 
