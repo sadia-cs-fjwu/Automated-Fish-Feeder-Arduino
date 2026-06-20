@@ -84,8 +84,12 @@ This system is particularly useful for aquarium owners who may forget feeding sc
 ---
 
 ## Author
-* Sadia Ali
-* BCS-IV (B)
-* Department of Computer Science
-* Fatima Jinnah Women University
+## Author
 
+Sadia Ali
+
+BCS-IV (B)
+
+Department of Computer Science
+
+Fatima Jinnah Women University
