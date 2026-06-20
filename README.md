@@ -92,7 +92,6 @@ BCS-IV (B)
 Department of Computer Science
 
 Fatima Jinnah Women University
-
 ## Project Image
 
 ![Automated Fish Feeder](project-photo.jpg)
